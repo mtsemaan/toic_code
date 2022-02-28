@@ -1,0 +1,13 @@
+name = "toic_code"
+uuid = "aacfdc9b-864b-4e49-8605-f0384de0afb3"
+authors = ["mtsemaan <msemaan@ucdavis.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
